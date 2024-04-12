@@ -1,166 +1,162 @@
-header{
-    background-color: #EFF3FD;
+header {
+  background-color: #eff3fd;
 }
-#botImg{
-    transform: scale(1.4,1.4) translate(-5px, 7px); 
+#botImg {
+  transform: scale(1.4, 1.4) translate(-5px, 7px);
 }
-    .ellipse{
-        top: 41px;
-        right: 13px;
-        background-color:  #3FE225;
-        height: 8px;
-        width: 8px;
-        border-radius: 50%;
-    }
-    .ellipses{
-        background-color:  #3FE225;
-        height: 8px;
-        width: 8px;
-        border-radius: 50%;
-    }
-    .Timpu{
-        color: #4C82EF;
-    }
-    .chatFirst{
-        background: linear-gradient(100.24deg, #E6EEFF 13.91%, #FFFFFF 116.73%);
-     padding:  10px ;
-    }
-    .chatSecond{
-        background-color: #DCF7C5;
-        padding: 10px 15px;
-    
-    }
-    .popBags{
-        color: #949494;
-        font-weight: 400;
-    }
-    .clutch{
-        background-color: #F2F7FF;
-        border-color: #4C82EF;
-        font-size: 13px;
-        color: #4C82EF;
-        line-height: 20px;
-        height: 30px;
-        border-radius: 5px;
-        padding: 5px 12px;
-        width: 63px;
-    }
-    .faBric{
-        background-color: #F2F7FF;
-        border-color: #4C82EF;
-        font-size: 13px;
-        color: #4C82EF ;
-        line-height: 20px;
-        height: 30px;
-        border-radius: 5px;
-        padding: 5px 13px;
-        width: 100px;
-    }
-    .bagGit{
-        background-color: #F2F7FF;
-        border-color: #4C82EF;
-        font-size: 13px;
-        color: #4C82EF ;
-        line-height: 20px;
-        height: 30px;
-        border-radius: 5px;
-        padding: 5px 12px;
-        width: 63px;
-    }
-    .multiComp{
-        background-color: #F2F7FF;
-        border-color: #4C82EF;
-        font-size: 13px;
-        color: #4C82EF ;
-        line-height: 20px;
-        height: 30px;
-        border-radius: 5px;
-        padding: 5px 10px;
-        width: 150px;
-    }
-    .arrow{
-        margin-left: 316px;
-        margin-top: 6px;
-        padding-top: 10px;
-        padding-left: 6px;
-    }
-    .products{
-        color: #949494;
-        font-weight: 400;
-        font-size: 12px;
-    }
-    .arrow_left{
-        
-        margin-left: 25px;
-        margin-top: 10px;
-       
-    }
-    .chatThird{
-        background: linear-gradient(114.92deg, #E6EEFF 34.14%, #FAFCFF 105.26%);
-        padding:10px  ;
-        
-    }
-    .select_Filter{
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 20px;
-        color: #949494;
-    }
-    .only_Filter{
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 20px;
-        color: #666666;
-    }
-    .long{
-        border-color: #4C82EF;
-        border-radius: 5px;
-    }
-    .strap{
-        
-        font-size: 13px;
-        color: #4C82EF;
-        line-height: 20px;
-        font-weight: 400;
-        
-    }
-    .strab_All{
-        background-color: #F6F9FF;
-    }
-  .colour{
-    font-size: 13px;
-        color: #737373;        ;
-        line-height: 20px;
-        font-weight: 400;
-  }
-  .colour_all{
-    background-color:  #F4F4F4;
-    border-color: #F4F4F4;
-  }
-  .messageBar{
-    background: linear-gradient(100.27deg, #EFF3FD 33.17%, rgba(239, 243, 253, 0) 122.24%);
-
-  }
-  .paperClip{
-    margin-left: -20px;
-    margin-top: 7px;
-    
-  }
-  .logo{
-   transform: scale(2.5);
-   height: 18px;
-   width: 18px;
+.ellipse {
+  top: 41px;
+  right: 13px;
+  background-color: #3fe225;
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+}
+.ellipses {
+  background-color: #3fe225;
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+}
+.Timpu {
+  color: #4c82ef;
+}
+.chatFirst {
+  background: linear-gradient(100.24deg, #e6eeff 13.91%, #ffffff 116.73%);
+  padding: 10px;
+}
+.chatSecond {
+  background-color: #dcf7c5;
+  padding: 10px 15px;
+}
+.popBags {
+  color: #949494;
+  font-weight: 400;
+}
+.clutch {
+  background-color: #f2f7ff;
+  border-color: #4c82ef;
+  font-size: 13px;
+  color: #4c82ef;
+  line-height: 20px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px 12px;
+  width: 63px;
+}
+.faBric {
+  background-color: #f2f7ff;
+  border-color: #4c82ef;
+  font-size: 13px;
+  color: #4c82ef;
+  line-height: 20px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px 13px;
+  width: 100px;
+}
+.bagGit {
+  background-color: #f2f7ff;
+  border-color: #4c82ef;
+  font-size: 13px;
+  color: #4c82ef;
+  line-height: 20px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px 12px;
+  width: 63px;
+}
+.multiComp {
+  background-color: #f2f7ff;
+  border-color: #4c82ef;
+  font-size: 13px;
+  color: #4c82ef;
+  line-height: 20px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: 150px;
+}
+.arrow {
+  margin-left: 316px;
+  margin-top: 6px;
+  padding-top: 10px;
+  padding-left: 6px;
+}
+.products {
+  color: #949494;
+  font-weight: 400;
+  font-size: 12px;
+}
+.arrow_left {
+  margin-left: 25px;
+  margin-top: 10px;
+}
+.chatThird {
+  background: linear-gradient(114.92deg, #e6eeff 34.14%, #fafcff 105.26%);
+  padding: 10px;
+}
+.select_Filter {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #949494;
+}
+.only_Filter {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #666666;
+}
+.long {
+  border-color: #4c82ef;
+  border-radius: 5px;
+}
+.strap {
+  font-size: 13px;
+  color: #4c82ef;
+  line-height: 20px;
+  font-weight: 400;
+}
+.strab_All {
+  background-color: #f6f9ff;
+}
+.colour {
+  font-size: 13px;
+  color: #737373;
+  line-height: 20px;
+  font-weight: 400;
+}
+.colour_all {
+  background-color: #f4f4f4;
+  border-color: #f4f4f4;
+}
+.messageBar {
+  background: linear-gradient(
+    100.27deg,
+    #eff3fd 33.17%,
+    rgba(239, 243, 253, 0) 122.24%
+  );
+}
+.paperClip {
+  margin-left: -20px;
+  margin-top: 7px;
+}
+.logo {
+  transform: scale(2.5);
+  height: 18px;
+  width: 18px;
   margin-left: 4px;
-   -webkit-filter: grayscale(100%); 
+  -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
-  }
-  .alpha{
-    color: #b1b1b1;
-  }
-  .Krunk{
-    color: #7a7a7a;
-  }
-  .search_Arrow{
-    background-color: #4C82EF;
-    border-radius: 10px;
-  }
+}
+.alpha {
+  color: #b1b1b1;
+}
+.Krunk {
+  color: #7a7a7a;
+}
+.search_Arrow {
+  background-color: #4c82ef;
+  border-radius: 10px;
+}
